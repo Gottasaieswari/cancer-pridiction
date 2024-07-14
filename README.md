@@ -202,16 +202,4 @@ print(classification_report(y_test,y_pred))
    macro avg       0.96      0.96      0.96       171
 weighted avg       0.96      0.96      0.96       171
 
-Don't Forget to Star and Watch on GitHub to Receive Updates
-Action 1: ⭐Star Repository as it make easy for you to find it again. You can see all the repositories and topics you have starred by going to your stars page.
 
-Action 2: 👁 Watch Repository and get notified of all future updates and activities in this repository.
-
-Click Here to Visit Fundamental Repository on GitHub
-
-image.png
-
-Don't Forget to Upvote NoteBook on Kaggle and Receive Updates
-Click Here to Visit Kaggle
-
-image.png
